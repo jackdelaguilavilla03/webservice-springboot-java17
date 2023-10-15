@@ -1,5 +1,5 @@
 {
-  "start": " java -jar target/*.jar",
+  "start": "java -jar target/*.jar",
   "install": "echo 'compiling' && mvn package",
   "watch": {
     "throttle": 500,
